@@ -2,6 +2,7 @@
  * ChangeRevolver will have user decide whether they wish to count change or make change, and use the appropriate class to do so.
  * Will use setter functions after prompting user to enter values, and call a different method to calculate depending on class.
  * No use for constructor this time, as user will always be prompted for values in the main method of ChangeRevolver.
+ * Testing out egit, repo support for eclipse
  */
 package money;
 import java.util.Scanner;
